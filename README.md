@@ -8,8 +8,8 @@ For any questions:
 
 Files:
 * 2024 Cincinnati Reds Hackathon Writeup
-      * Contains the write-up for submission.
+  * Contains the write-up for submission.
 
 * Reds-Hackathon-Notebook
-      * Contains all of the code associated with the project
+  * Contains all of the code associated with the project
 
