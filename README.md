@@ -15,3 +15,4 @@ Files:
   
   * Contains all of the code associated with the project
 
+As a heads up, I will be interning with the Tampa Bay Rays in the upcoming summer. I wanted to be sure to disclose that.
